@@ -1,3 +1,3 @@
 jsik@wwwsoc.nii.ac.jp
 
-/home/jsik/bukai/sgml/.
+scp forum2010* jsik@wwwsoc.nii.ac.jp:/home/jsik/bukai/sgml/.
